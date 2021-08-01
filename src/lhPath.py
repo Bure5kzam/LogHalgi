@@ -1,0 +1,13 @@
+D_XLSX = "./../doc/xlsx/"
+D_INFO = "./../doc/info/"
+D_ALLHOST = D_XLSX + "allHost/"
+D_LABELED = D_XLSX + "labeled/"
+D_DEV = D_XLSX + "dev/"
+D_TEST = D_XLSX + "test/"
+
+F_LOGORI = "./../doc/xlsx/Strange_Weblog.csv"
+F_LOG0 = "./../doc/xlsx/Strange_Weblog[0].csv"
+F_DIC_ALLHOSTN2S = D_INFO + "allhostN2S.pickle"
+F_DIC_ALLHOSTS2N = D_INFO + "allhostS2N.pickle"
+F_HostPath = r"./../doc/xlsx/allHost/6[0].csv"
+F_HostPath2 = r"./../doc/xlsx/allHost/0[0].csv"

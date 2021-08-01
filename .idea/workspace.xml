@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6ed4ca7-f813-453d-8292-53e09ce82f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lhDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/loghalgi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/loghalgi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/0_labeled[0].csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1000_labeled[0].csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zz[0].csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lhAddColumn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/lhAddColumn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lhAnalizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/lhAnalizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lhDetector.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/lhDetector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lhExport.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/lhExport.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample_file.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample_file.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="82bc67f7-e021-440f-b448-007122837d29" />
+  <component name="ProjectId" id="1hyo8U0ORBCX74DheZ40S5X2Qbr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\proj\loghalgi\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="lhAddColumn" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loghalgi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/lhAddColumn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lhDetector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loghalgi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/lhDetector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lhExport" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loghalgi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/lhExport.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loghalgi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="loghalgi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/test1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.lhDetector" />
+        <item itemvalue="Python.lhExport" />
+        <item itemvalue="Python.test1" />
+        <item itemvalue="Python.lhAddColumn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6ed4ca7-f813-453d-8292-53e09ce82f1f" name="Default Changelist" comment="" />
+      <created>1600992534045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600992534045</updated>
+      <workItem from="1600992535131" duration="5806000" />
+      <workItem from="1601296954835" duration="2770000" />
+      <workItem from="1601304535767" duration="2560000" />
+      <workItem from="1601386339552" duration="195000" />
+      <workItem from="1601386553334" duration="3508000" />
+      <workItem from="1601393665751" duration="6864000" />
+      <workItem from="1601400599177" duration="4210000" />
+      <workItem from="1601427919897" duration="8215000" />
+      <workItem from="1601446247962" duration="9492000" />
+      <workItem from="1601536246685" duration="14959000" />
+      <workItem from="1601553878186" duration="24567000" />
+      <workItem from="1601624102165" duration="44819000" />
+      <workItem from="1601729995206" duration="8226000" />
+      <workItem from="1601738318574" duration="1549000" />
+      <workItem from="1601783097120" duration="36679000" />
+      <workItem from="1601988673361" duration="3569000" />
+      <workItem from="1602068496478" duration="4306000" />
+      <workItem from="1602074871301" duration="53000" />
+      <workItem from="1602074945684" duration="1528000" />
+      <workItem from="1602078014568" duration="2925000" />
+      <workItem from="1602311075133" duration="26000" />
+      <workItem from="1602311583323" duration="409000" />
+      <workItem from="1602314241312" duration="40412000" />
+      <workItem from="1602405636945" duration="6817000" />
+      <workItem from="1602760397618" duration="987000" />
+      <workItem from="1602847415681" duration="4274000" />
+      <workItem from="1603474970294" duration="4266000" />
+      <workItem from="1603534949110" duration="3359000" />
+      <workItem from="1603584352535" duration="4279000" />
+      <workItem from="1603588697044" duration="3434000" />
+      <workItem from="1603601308772" duration="974000" />
+      <workItem from="1603603054329" duration="688000" />
+      <workItem from="1603605666046" duration="418000" />
+      <workItem from="1603606095958" duration="8221000" />
+      <workItem from="1603801527693" duration="773000" />
+      <workItem from="1603976327674" duration="1832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="235" key="#Notifications" timestamp="1603603039467">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="501" y="235" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1603603039467" />
+    <state x="525" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601429768490">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601429768490" />
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601432028927">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1601432028927" />
+    <state x="548" y="152" key="FileChooserDialogImpl" timestamp="1602311097754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="152" key="FileChooserDialogImpl/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1601297701078" />
+    <state x="548" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602311097754" />
+    <state width="1237" height="471" key="GridCell.Tab.0.bottom" timestamp="1603638614361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602768495097" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1602414665440" />
+    <state width="1877" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824/6.-1080.1920.1040@6.-1080.1920.1040" timestamp="1602422573100" />
+    <state width="1237" height="471" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603638614361" />
+    <state width="1493" height="226" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1602336945854" />
+    <state width="1237" height="471" key="GridCell.Tab.0.center" timestamp="1603638614361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602768495097" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1602414665440" />
+    <state width="1877" height="235" key="GridCell.Tab.0.center/0.0.1536.824/6.-1080.1920.1040@6.-1080.1920.1040" timestamp="1602422573099" />
+    <state width="1237" height="471" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603638614361" />
+    <state width="1493" height="226" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1602336945822" />
+    <state width="1237" height="471" key="GridCell.Tab.0.left" timestamp="1603638614360">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602768495097" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1602414665440" />
+    <state width="1877" height="235" key="GridCell.Tab.0.left/0.0.1536.824/6.-1080.1920.1040@6.-1080.1920.1040" timestamp="1602422573099" />
+    <state width="1237" height="471" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603638614360" />
+    <state width="1493" height="226" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1602336945803" />
+    <state width="1237" height="471" key="GridCell.Tab.0.right" timestamp="1603638614361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="174" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1602768495097" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1602414665440" />
+    <state width="1877" height="235" key="GridCell.Tab.0.right/0.0.1536.824/6.-1080.1920.1040@6.-1080.1920.1040" timestamp="1602422573100" />
+    <state width="1237" height="471" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603638614361" />
+    <state width="1493" height="226" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1602336945845" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1601432334354">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1601297703026" />
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601432334354" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1601738160942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1601738160942" />
+    <state x="327" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1601541503317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="327" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601541503317" />
+    <state x="474" y="144" width="638" height="594" key="find.popup" timestamp="1603476163884">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="144" width="638" height="594" key="find.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601634860371" />
+    <state x="822" y="128" width="638" height="594" key="find.popup/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1602406454297" />
+    <state x="474" y="144" width="638" height="594" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1603476163884" />
+    <state x="410" y="138" width="700" height="530" key="recent.locations.popup" timestamp="1601403933716">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="410" y="138" width="700" height="530" key="recent.locations.popup/0.0.1536.824@0.0.1536.824" timestamp="1601403933716" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603609217681">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1601545741766" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/6.-1080.1920.1040@0.0.1536.824" timestamp="1602402084893" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603609217681" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/lhAddColumn.py</url>
+          <line>115</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/lhAddColumn.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/lhAnalizer.py</url>
+          <line>30</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/lhDetector.py</url>
+          <line>125</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/lhDetector.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="list_timelength" language="Python" />
+        <watch expression="temp2" language="Python" />
+        <watch expression="time_now" language="Python" />
+        <watch expression="time_start" language="Python" />
+        <watch expression="type(td)" language="Python" />
+        <watch expression="type(td)" language="Python" />
+        <watch expression="list_value_refererUnknown[i] &gt; 0.7" language="Python" />
+        <watch expression="list_value_refererEntropy[i] &gt; 0.3" language="Python" />
+        <watch expression="list_value_stdev[i] &gt;0.3" language="Python" />
+        <watch expression="list_value_stdev[i]&lt;0.7" language="Python" />
+        <watch expression="sum[idx]" language="Python" />
+        <watch expression="a[idx]" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/loghalgi$lhexport.coverage" NAME="lhexport Coverage Results" MODIFIED="1601297209503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$main.coverage" NAME="main Coverage Results" MODIFIED="1603611811259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhExport__1_.coverage" NAME="lhExport (1) Coverage Results" MODIFIED="1601404525912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhExport.coverage" NAME="lhExport Coverage Results" MODIFIED="1601694178621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhAnalizer.coverage" NAME="lhAnalizer Coverage Results" MODIFIED="1601553795671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1601637408186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhAddColumn.coverage" NAME="lhAddColumn Coverage Results" MODIFIED="1601632723755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhDetector.coverage" NAME="lhDetector Coverage Results" MODIFIED="1601728045812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhParser.coverage" NAME="lhParser Coverage Results" MODIFIED="1601299027366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/loghalgi$lhPDseparator.coverage" NAME="lhPDseparator Coverage Results" MODIFIED="1601431546449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+  </component>
+</project>
