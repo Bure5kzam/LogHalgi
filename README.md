@@ -6,7 +6,7 @@
 
 
 
-# 탐지 가능한 악성 행위
+# 탐지 범위
 
 - Credential Stuffing
 - Crawling & Scraping
